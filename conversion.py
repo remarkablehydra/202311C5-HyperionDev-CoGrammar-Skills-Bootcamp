@@ -10,13 +10,13 @@ num3 = 150
 string1 = '100'
 
 number = int(num1)
-print(number) #99
+print(number) # 99
 
 number = float(num2)
-print(number) #23.0
+print(number) # 23.0
 
 number = str(num3)
-print(number) #150
+print(number) # 150
 
 number = int(string1)
-print(number) #100
+print(number) # 100
