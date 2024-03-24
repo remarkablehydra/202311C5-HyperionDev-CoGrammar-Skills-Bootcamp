@@ -1,5 +1,5 @@
 # Welcome message and request inputs from the user
-print('Welcome to the Annual HD Triathlon! \n To calculate a total time for you and a place on our leaderboard, please provide your individual times in minutes for each event: ')
+print('Welcome to the Annual HD Triathlon! \n To qualify for the leaderboard, please provide your individual times in minutes for each event: ')
 swimtime = int(input('Swimming: '))
 cycletime = int(input('Cycling: '))
 runtime = int(input('Running: '))
